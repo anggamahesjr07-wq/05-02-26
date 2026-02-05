@@ -1,0 +1,32 @@
+Body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI1LTA1L3Jhd3BpeGVsX29mZmljZV8zMF9hYnN0cmFjdF9ncmFkaWVudF93aGl0ZV9iYWNrZ3JvdW5kX3ZlY3Rvcl9wcl9kZGY3ZTJiNC0wMjU3LTRjMTUtOWFjNS0xMmQwZTA0N2E4MWYtam9iMjAyNl8xLW1hbmI5a3pkLmpwZw.jpg);
+}
+
+
+
+
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size : 12px;
+}
+
+p {
+    color : rgb(0, 0, 0);
+    text-transform:capitalize;
+    border-color : aquamarine;
+
+}
+
+/* Class Selector */
+.red {
+    color : rgb(0, 0, 0);
+    font-size: 20px;
+    
+}
+
+.tulisanmiring {
+    text-decoration: underline;
+
+}
